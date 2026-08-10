@@ -1,0 +1,13 @@
+{
+  "background_color": "#df231e",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Playa Dorada",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Sorteos",
+  "start_url": "/",
+  "theme_color": "#1530a6",
+  "id": "Playa-Dorada-Sorteos",
+  "description": "app de sorteos, grandes premios"
+}
