@@ -1,13 +1,27 @@
 {
-  "background_color": "#df231e",
+  "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Playa Dorada",
+  "name": "rugir007.github",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Sorteos",
+  "short_name": "rugir007.github",
   "start_url": "/",
-  "theme_color": "#1530a6",
-  "id": "Playa-Dorada-Sorteos",
-  "description": "app de sorteos, grandes premios"
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://rugir007.github.io/favicon.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "Playa Dorada",
+  "description": "sorteos"
 }
